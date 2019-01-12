@@ -2,7 +2,6 @@
 ---
 
 # La SandBox
-> Le bac à sable numérique de la Fabrique du Loch
 
 La Sandbox est un **bac à sable 2.0** (illustration) qui permet de visualiser de manière ludique le déplacement de l’eau sur du sable qu’on manipule pour créer de nouveaux reliefs.
 [UCLA Augmented Reality Sandbox](http://thinkingintermsof.scienceblog.com/2015/08/10/uclas-augmented-reality-sandbox)
