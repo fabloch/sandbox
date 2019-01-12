@@ -1,8 +1,11 @@
+---
+---
+
 # la page de suivi de Sandbox
 
 [x] Contact téléphonique établi avec le fablab de Lannion @gilbert l
-[x] M**ettre un lien sur le Trello de la fabrique vers cette page** 
-[x] Organisation d’une visio avec les “codeurs” Jean Noël, Yacouba, Christophe. 
+[x] M**ettre un lien sur le Trello de la fabrique vers cette page**
+[x] Organisation d’une visio avec les “codeurs” Jean Noël, Yacouba, Christophe.
 [x] organisation d’une rencontre climactions/fabrique/PNR@Marie D
 [x] visite de climaction pour voir la Sandbox et apprendre son fonctionnement ? @Marie D
 
@@ -13,17 +16,17 @@
 [x] Se faire prêter ou acheter un Video projecteur courte focale [(voir ici)](https://paper.dropbox.com/doc/liens-divers-et-varies--ASHvSE9X5iXmXezw1mh1J5WHAg-hKVlU1NFQK03hLUY9jw1x)
 [x] Faire un plan de construction avec les cotes indiquées [sur la vidéo](https://paper.dropbox.com/doc/liens-divers-et-varies--ASHvSE9X5iXmXezw1mh1J5WHAg-hKVlU1NFQK03hLUY9jw1x)
 [ ] sélection d’une zone géographique pertinente pour la représentation de la montée des eaux.  (voir discussion plus bas )
-[ ] 
-[ ] visualiser sur carte locale les carrés à demander auprès mairie ou autres 
+[ ]
+[ ] visualiser sur carte locale les carrés à demander auprès mairie ou autres
 [ ] demande identique auprès de Climaction
 [ ] à partir de presentation.odp :  faire un document de communication qui sera nécessaire pour démarcher nos interlocuteurs.
 
 
 [x] collage  d’un raidisseur sur le miroir (en ppma) à effectuer @gilbert l
-[ ] 
+[ ]
 [x] réglage de l’inclinaison du miroir tenu par 2 ficelles à effectuer @gilbert l
 [x] réinstallation du logiciel sandboxAR sur un autre pc avec sortie VGA @Yacouba K
-[x] **calibration du logiciel à refaire** prenant en compte la camera et le projecteur, fixation camera et  prise de repères pour le positionnement du projecteur. 
+[x] **calibration du logiciel à refaire** prenant en compte la camera et le projecteur, fixation camera et  prise de repères pour le positionnement du projecteur.
 [ ] à refaire maintenant que tout fonctionne et faire mode d’emploi
 [x] Tamiser le sable - le tamis de Gilbert est revenu à la fabrique
 [ ] un “timelapse” de 20” sur les 6 heures d’une marée montante coefficient >= 100 à saint goustan @gilbert l
@@ -45,7 +48,7 @@ c++ : les MOOC et tuto
 ~~le~~ [~~tuto officiel~~](https://arsandbox.ucdavis.edu/instructions/installation/)
 Attention, celui-ci ne fonctionne plus pour une réinstallation complète
 La seule référence (avec des nouvelles librairies Kinect et VRUI [est ici](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/LinkSoftwareInstallation.html)
-la  [vidéo](https://www.youtube.com/watch?v=CE1B7tdGCw0) 
+la  [vidéo](https://www.youtube.com/watch?v=CE1B7tdGCw0)
 sur le NAS le diaporama dans  fabrique/PROJETS de la fabrique du loch/FDVA 2018 Montée des eaux/sansbox-
 La maquette
 
@@ -88,8 +91,8 @@ la limite de la rivière d’Auray au nord s’arrête au Boursul au sud des “
 il faut : demander à nos mairies respectives (ou écoles, universités…) de  : récupérer les dalles manquantes :
 
 
-[ ] Auray : 0245_6750, 0250_6750, 0255_6750 et 0245_6755,  0250_6755, 0255_6755, 
-[ ] Vannes : 
+[ ] Auray : 0245_6750, 0250_6750, 0255_6750 et 0245_6755,  0250_6755, 0255_6755,
+[ ] Vannes :
 
 
 ![couverture Lidar du golfe du morbihan](https://d2mxuefqeaa7sj.cloudfront.net/s_D79BECC53225E2841F3159439FDBF3EAEF8D2B1629C67346862060EAB087717F_1539011329501_zone+morbihan+ign+2.png)
@@ -119,12 +122,12 @@ sur http://diffusion.shom.fr/loisirs/catalogsearch/result/?q=morbihan on a ça :
 
 ----------
 
-Intervention sur le soft pour pouvoir augmenter le niveau par pas de x cm (50, 100 ?) 
+Intervention sur le soft pour pouvoir augmenter le niveau par pas de x cm (50, 100 ?)
 et mode de gestion de l’interactivité à cogiter (page web ?, sur mini écran, sur pc maitre, potentiomètre,  ? possibilités d’ajouter des paramètres influant sur la hauteur choisie (dépression, vent? et ou déterminant la hauteur prévue (réchauffement en degré)
 
 
 # Courbes de niveaux
-## 
+##
 [ ] Transformation ou utilisisation des fichiers MNT ou des nuages de points pour générer les courbes de niveaux sous forme d’image utilisable par la découpe laser.
 [ ] Le logiciel ignmap sait lire les données MNT (entre autres) http://ignmap.ign.fr/spip.php?rubrique3 je l’ai installé sur le PC25 sur lequel on a le logiciel sandbox- travaille en relation avec geoportail.
 
@@ -144,7 +147,7 @@ voir ICI : http://www.pages-perso-philippe-vernant.univ-montp2.fr/Philippe_Verna
 
 Bonne nouvelle :
 Qgis permet d’extraire les contours d’altitudes choisies → afin de sortir des images de découpe par couple (par exemple, couche 10 m et couche 11m afin de découper la couche 10 m et d’y graver la couche 11m qu’on pose dessus après (la bonne idée de Ludo)
-la méthode →  [voir ici](https://mesange.educagri.fr/htdocs/sigea/supports/QGIS/distance/perfectionnement/M09_Traitement_donnees_raster_gen_web/co/40_N2_Outils_Raster_MNT.html) 
+la méthode →  [voir ici](https://mesange.educagri.fr/htdocs/sigea/supports/QGIS/distance/perfectionnement/M09_Traitement_donnees_raster_gen_web/co/40_N2_Outils_Raster_MNT.html)
 Output : fichier Shapefile (. SHP) convertible en SVG ensuite
 
 
@@ -181,7 +184,7 @@ entrer les relevés MNT dans la sandbox.
 
 
 
-[ ] 
+[ ]
 ## Des essais sur la rivière d’Auray donnent :
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_32CC047DCDFE631499662F9F9BEC0E3C68AB154930DC38BBC9C619CE5C281725_1540657156259_HAUSSE_NIVEAUX_10m.png)
 
@@ -191,7 +194,7 @@ La rivière est très confinée dans un relief franc : l’effet visuel entre +4
 
 ## Journée du 10novembre : Découpe Prototype maquette MDF
 
-SVG de courbes de niveau pour la zone d’Auray (données SRTM + IGN). Il y a 12 tranches espacées de 5m pour représenter les reliefs de 0 à 55m. 
+SVG de courbes de niveau pour la zone d’Auray (données SRTM + IGN). Il y a 12 tranches espacées de 5m pour représenter les reliefs de 0 à 55m.
 Dimensions prototype :
 
 - X 700mm
@@ -240,7 +243,7 @@ Pour des altitudes différentes :
 Note : les tracés noirs sont à “oublier” car ils proviennent du bruit de la Kinect sur un fond plat. Les différentes altitudes ont été obtenues en faisant varier le paramètre : demVerticalShift et la zone blanche (zone de transition entre le bleu et le rouge) a été réduite en portant le paramètre demVerticalScale à 100.
 Plus d’info dans ce topic : https://arsandbox.ucdavis.edu/forums/topic/dem-help/
 
-Quelques remarques : 
+Quelques remarques :
 
 1. les fichiers MNT de l’IGN ou L3D du SHOM décrivent des zones carrées. La sandbox adapte les fichiers d’entrée suivant sa résolution qui est rectangulaire. Il convient donc de sélectionner dans le fichier MNT les points à représenter avec le même rapport Lxl.
 2. La zone à afficher peut provenir de plusieurs fichiers et il faut juxtaposer les données de ces différents fichiers.
@@ -248,7 +251,7 @@ Quelques remarques :
 
 Ces remarques permettront de spécifier les fonctions que devra réaliser le programme de conversion.
 
-## MNT Baie de Quiberon 
+## MNT Baie de Quiberon
 
 http://diffusion.shom.fr/pro/amenagement/mnt-cotier-morbihan-tandem.html
 
@@ -306,11 +309,8 @@ Retrouver la ligne de plus haute mer astronomique (PHMA).
 Les deux lignes PBMA et PHMA définissent l’Estran.
 
 **Isobathes et lignes de côte**
-Depuis QGIS 
+Depuis QGIS
 Lignes de contour sur le MNT de mètre en mètre.
 Considérer une échelle d’altitude variable.
 En dessous de 0: ne conserver que deux isobathes, à -2 puis -5 mètres (comme pour les cartes marines)
 Au dessus de 0: jusqu’à 15 mètres, on peut travailler sur les lignes de côte de 1 mètre puis passer à des lignes de côtes plus espacées.
-
-
-

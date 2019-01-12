@@ -1,6 +1,9 @@
+---
+---
+
 # Liens Utiles
 
-# le projecteur utilisé 
+# le projecteur utilisé
 
 de type Throw Projector - il existe aussi des ultra Throw projectors
 le même type de projecteur existe peut-être en pico-projector mais la focale est un élément pertinant uniquement pour des projecteurs similaires (taille physique de l’image projetée)
@@ -17,13 +20,13 @@ La **courte focale** fait bénéficier, avec ce modèle d'une image de **1 m de 
 
 598€ [chezmatériel.net](https://www.materiel.net/produit/201510070049.html)
 
-# 
+#
 # Dimensions pour Construction
 
 (relevées à partir de 0:50 dans la vidéo) les dimensions sont en pouces
 
 **Les cotes pour le bois nécessaire à la fabrication :**
-une planche CP 3/4”  de 4’x8’  (3m2) dans la quelle on découpe : 
+une planche CP 3/4”  de 4’x8’  (3m2) dans la quelle on découpe :
 
 - le fond : 30”x40”
 - petit coté : 2 de dimension 6”x41.5”
@@ -86,4 +89,3 @@ http://www.pages-perso-philippe-vernant.univ-montp2.fr/Philippe_Vernant/QGIS-MNT
 
 il semblerait que les lidar en asci demandent une ~~modification des entêtes de fichiers~~
 ~~https://datagistips.hypotheses.org/167 - à vérifier,~~ il n’est pas impossible que les formats de fichier de l’IGN ait évolué depuis (pour devenir standard)
-

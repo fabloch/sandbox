@@ -1,4 +1,7 @@
-# La mer à voir - Production 
+---
+---
+
+# La mer à voir - Production
 
 # CERFA du 12 septembre 2018
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_3FD404D6CD4B05508DFB349AB21F9205F9A734525B1A58307C12A3AF5983E948_1539008620335_cerfa-12156-05.png)
@@ -7,8 +10,8 @@
 ## Montée des océans : La mer à voir
 ## Objectifs :
     De façon collaborative, élaborer un outil attractif* de sensibilisation à la montée des océans pour tous les publics. Le volet collaboratif agrège : La Fabrique du Loch et le réseau des fablabs, Clim’actions et ses experts, le milieu scolaire, le public (nos adhérents). Le volet pédagogique (apprendre par le faire) porte sur un large panel de compétences et de savoirs notamment dans les domaines de l’écologie, du numérique et de l’innovation.*Attractif car se manipule, interagit, montre les effets en réalité augmentée, en opensource et se décline localement.
-    
-## Description : 
+
+## Description :
 
 1 - **Les 4 étapes techniques :**
 
@@ -17,9 +20,9 @@
   Évaluer la partie cartographique, notamment la cohérence et la qualité des données.
   c/ Définir le cahier des charges pour la réalisation du prototype.
   Prise en compte du résultat de l’évaluation avec la définition des spécifications fonctionnelles aux niveaux système, matériel et logiciel, ainsi que des besoins des fablabs.
-   d/ Réaliser le prototype - Achat du matériel, CAO, fabrication, assemblage, développement du logiciel, intégration du matériel et du logiciel, validation système. 
+   d/ Réaliser le prototype - Achat du matériel, CAO, fabrication, assemblage, développement du logiciel, intégration du matériel et du logiciel, validation système.
 
-**2 - Le volet collaboratif avec un public diversifié :** 
+**2 - Le volet collaboratif avec un public diversifié :**
 il est effectif sur les étapes b et d (innovation). Voir moyens.
 **3 - Essaimer et communiquer** grâce à la réalisation de montage vidéo et tutoriels tout au long du projet (sur 6 mois).
 
@@ -33,14 +36,14 @@ Le département du Morbihan : La conception de la maquette et du prototype s'att
 
 ## Moyens matériels et humains :
 
-Le projet est coordonné par notre fabmanager (salarié). Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ». 
-Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet. 
+Le projet est coordonné par notre fabmanager (salarié). Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ».
+Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet.
 A ce jour, une dizaine de bénévoles de la FDL ont réalisé ensemble notre sandbox. Pour l’adapter aux besoins spécifiques du projet, le concours de 3 experts* très qualifiés est indispensable (bénévole mais valorisé à 40€/h).
 
 - L. Labeyrie, paléo-océanographe, ex-membre du GIEC et membre de Clim'actions ; J-N. Murail, ex-ingénieur Câbles et Réseaux sous-marins ; A. Ménard, développeur à l'Etalab missionné au SHOM.
 ## Evaluation :
 
-Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux). 
+Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux).
 
 
 ## Budget :
@@ -78,7 +81,7 @@ La réalisation concrète de cet objet tactile et numérique s’inscrit dans un
 collaborative, avec ses outils, ses règles et ses valeurs, notamment celles de la pluralité des acteurs associés qui garantit un élargissement culturel et de la mise en commun de connaissances et ressources diversifiées. Le projet collaboratif, connu des makers, est une formidable expérience humaine propice au partage de compétences, à l’expérimentation et à l’innovation, trois facteurs clés de l’ingéniosité.
 Malheureusement, le temps imparti ne permettra pas de développer pleinement un
 projet pédagogique au sein des écoles locales avec la participation des classes.
-Néanmoins, nos bonnes relations et nos contacts avec les établissements scolaires et les centres de formation locaux, ainsi qu’une demande récurrente des jeunes pour venir en stage à la FDL, nous garantissent un panel de ressources humaines. Exemple 
+Néanmoins, nos bonnes relations et nos contacts avec les établissements scolaires et les centres de formation locaux, ainsi qu’une demande récurrente des jeunes pour venir en stage à la FDL, nous garantissent un panel de ressources humaines. Exemple
 
 - des élèves du lycée Du Guesclin seront impliqués dans la réalisation des maquettes représentant des sites significatifs et dans les premières évaluations d'expérience utilisateurs.
 - Seront également associés des élèves du primaire et d’un collège.
@@ -87,4 +90,3 @@ Néanmoins, nos bonnes relations et nos contacts avec les établissements scolai
 Ce nouvel outil, attractif pour de nombreux publics, prendra tout son sens s'il s'inscrit
 dans une démarche de sensibilisation et d’éducation à l’environnement et au
 réchauffement climatique.
-

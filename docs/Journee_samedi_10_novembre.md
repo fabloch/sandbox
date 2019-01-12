@@ -1,10 +1,13 @@
+---
+---
+
 # Journée samedi 10 novembre
 
 ## Communication @Marie D
 
 élaboré par Anne et Laure pour production d’un document papier.
 
-Montée des eaux : la mer à voir 
+Montée des eaux : la mer à voir
 le bac à sable de la FDL
 
 La sandbox* est un bac à sable 2.0 (illustration) qui permet de visualiser de manière ludique le déplacement de l’eau sur du sable qu’on manipule pour créer de nouveaux reliefs (thinkingintermsof.scienceblog.com/2015/08/10/uclas-augmented-reality-sandbox)
@@ -34,7 +37,6 @@ Gilbert s’est recentré sur QGIS qui me semble l’outil le plus simple pour p
 ----------
 # Calibrage @Yacouba K
 
-Yacouba grippé absent, ce n’est qu’à 17 h qu’on branche les composants (video projecteur, et ordinateur) pour commencer la calibration 
+Yacouba grippé absent, ce n’est qu’à 17 h qu’on branche les composants (video projecteur, et ordinateur) pour commencer la calibration
 
 ----------
-

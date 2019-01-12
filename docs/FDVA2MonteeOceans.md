@@ -1,3 +1,6 @@
+---
+---
+
 # FDVA2 : La montée des océans
 
 # doc du drive :
@@ -43,7 +46,7 @@ climaction : Cécile Franchet -Directrice et Co-fondatrice de Clim'actions Breta
 0689293597
 
 
-## combien 
+## combien
 
 lampe à 1700€ttc
 2 projecteurs
@@ -61,7 +64,7 @@ lampe à 1700€ttc
 Une instit (Florence Bloyer), écolo , intéressée (6° 5°4° secpa)- Suppléante de Pahun
 Philippe Lefouillé rollo (cm1)
 On construit un outil avec des scolaires (projections de lignes isobathe)
-Travail des enfants sur les données, les cartes et la construction de l’installation 
+Travail des enfants sur les données, les cartes et la construction de l’installation
 Du participatif avec plusieurs classes de niveaux différents
 
 Conférences et workshops (itinérants ?)
@@ -115,13 +118,13 @@ De façon collaborative, élaborer un outil de sensisibilisation à la monté de
 Le volet collaboratif agrège : la fabrique du loch et son réseau de fablabs, Clim’actions et ses experts, le milieu scolaire, le public (nos adhérents).
 Le volet pédagogique à la réalisation de ce projet (apprendre par le faire) porte sur un large panel de compétences et de savoirs notamment dans les domaines de l’écologie, du numérique et de l’innovation.
 
-Sensibiliser le plus grand nombre, aux effets de la montée des océans, en élaborant de façon collaborative (la fabrique du Loch et son réseau des fablabs, clima’action etet reproductible, un outil de manipulation, interactif et en réalité augmentée simulant la mouvements pouvant être décliner à la maquette de son environnement local. 
+Sensibiliser le plus grand nombre, aux effets de la montée des océans, en élaborant de façon collaborative (la fabrique du Loch et son réseau des fablabs, clima’action etet reproductible, un outil de manipulation, interactif et en réalité augmentée simulant la mouvements pouvant être décliner à la maquette de son environnement local.
 
 Au regard des 3 piliers "FAIRE- APPRENDRE-PARTAGER" fondateurs du mouvement des makers, nos objectifs sont de :
 
 - Fabriquer en collaboration avec des élèves de 8 à 25 ans les différents éléments nécessaires à la réalisation de la sand-box : boite pédagogique et très ludique qui rend compte en réalité augmentée du mouvement des eaux par rapport aux évolutions du relief.
 - Dans un 1er temps, initier ou renforcer les compétences des jeunes engagés dans une création collaborative, open-source et évolutive (la sand-box) : faire pour comprendre des savoirs numériques, topographiques, physiques, de documentation... et les savoirs-être de l’engagement collaboratif.
-- Par la suite, la réalisation de cet outil doit enrichir une démarche pédagogique pour 
+- Par la suite, la réalisation de cet outil doit enrichir une démarche pédagogique pour
 - Représentation de la montée des eaux par une analyse du phénomène dans un environnement connu.
 - Réalisation d’une maquette du port de Vannes en mdf modélisant les élévations du sol.
 - Du vidéo-mapping permet de représenter le niveau d’eau dans le port en fonction de plusieurs paramètres.l’environnement portée par Clim’action de Vannes et ainsi contribuer à sensibiliser le plus grand nombre à lutter contre la montée des océans.
@@ -141,20 +144,20 @@ Cette démarche peut être essaimée.
 
 un projet collaboratif pour échanger renforcer ou acquérir des savoirs et compétence numériques et écologiques  “apprendre par le faire” autour de la réalisation d’un outil reproductible et attractif destiné à un large public
 
-## 1/ une [maquette](http://acilab.fr/wakka.php?wiki=RealAugmente) sandbox est en cours de réalisation sur fonds propres. 
+## 1/ une [maquette](http://acilab.fr/wakka.php?wiki=RealAugmente) sandbox est en cours de réalisation sur fonds propres.
 
 La sandbox est un projet opensource conçu (UCLA) et perfectionné au sein du réseau des fablabs. C’est un bac à sable où l’on manipule manuellement le sable et viruellement l’eau pour des représentations interactives en réalité augmentée des écoulement de l’eau en fonction des reliefs. Le bac à sable est surmonté d’une caméra 3D et de capteurs de niveaux. Ils représentent en réalité augmentée, l’
 Réalisation d’une maquette d’un lieu significatif local en mdf modélisant les élévations du sol.
 Du vidéo-mapping permet de représenter le niveau d’eau dans le lieu connu en fonction de plusieurs paramètres.
 L’expérimentateur peut visualiser la montée des eaux en fonction de comportements différents, selon des versions optimistes ou pessimistes et à des échéances différentes.
 
-Pour cette maquette, un groupe projet composé d’adhérents (Christophe, Jean-Noêl, Lucas SC, Gilbert, Juju, Araud Ménard, Adeline? 1 salarié 1/3  temps, 1/2 SC 
+Pour cette maquette, un groupe projet composé d’adhérents (Christophe, Jean-Noêl, Lucas SC, Gilbert, Juju, Araud Ménard, Adeline? 1 salarié 1/3  temps, 1/2 SC
 se retrouve 1 fois par semaine et valorisent le matériel dont il dispose pour fabriquer la maquette
 
 
 ## 2/ Cette maquette va permettre d’évaluer les ajouts, modifications et innovations à y apporter
 
-Pour cette étape, nous y associons pour la volet scientifique (labeyrie GIEC, clim’action, 
+Pour cette étape, nous y associons pour la volet scientifique (labeyrie GIEC, clim’action,
 volets pédagogique des professeurs et des élèves.
 volet numérique : projet en opensource ; facilité de mise en oeuvre, types d’interactivités
 évaluer la partie cartographique (cohérence et qualité des données)
@@ -164,7 +167,7 @@ Résultats en fonction des actions (si transport quotidien… si voyage en avion
 ## 3/ définition du cahier des charges pour la réalisation du prototype
 
 Prise en compte du résultat de l’évaluation
-Définition des spécifications : 
+Définition des spécifications :
 
 - fonctionnelles au nivau systhème, matériel et logiciel
 - spécifications technique
@@ -178,7 +181,7 @@ Achat du matériel, CAO, Fabrication, assemblage du matériel,  développement d
 les différents élèments constituant l’outil sont réalisés en collaboration avec des scolaires (topographie, découpe laser, …)
 pour le logiciel étudiants en informatique
 pour la fo
-décoration : Hélène 
+décoration : Hélène
 
 ## 5/ essaimage
 
@@ -187,7 +190,7 @@ promotion de l’outil (communication avec vidéo et diaporama + papier)
 utilisation de l’outil dans différents lieux et publics
 
 
-## Bénéficiaires : 
+## Bénéficiaires :
 
 caractéristiques sociales, dans le respect des valeurs d'égalité et de fraternité de la République (ouverture à tous, mixité, égalité femmes-hommes, non-discrimination), nombre, âge, sexe, résidence, participation financière éventuelle, etc.
 
@@ -197,7 +200,7 @@ caractéristiques sociales, dans le respect des valeurs d'égalité et de frater
 Département du Morbihan
 
 
-## Moyens matériels et humains 
+## Moyens matériels et humains
 
 (voir aussi les "CHARGES INDIRECTES REPARTIES" au budget du projet) :4
 
@@ -208,14 +211,14 @@ pour la maquette, la fabrique du Loch dispose du matériel requis ( mise à disp
 pour le prototype : achat d’une caméra3D (170), heure découpe laser, prestation pour expertise ( idem),data de cartographie, un ordinateur (1000), télécommande, + petit matériel
 matière 2500  5500 en RH
 **pour la communication promotion :**
-impression 
+impression
 
 ## Date ou période de réalisation
 
 Automne 2018
 
 
-## Evaluation : 
+## Evaluation :
 
 indicateurs proposés au regard des objectifs ci-dessus :
 la maquette est réalisée et a mobilsé X personnes
@@ -280,8 +283,8 @@ découpe laser – les données du port de Vannes et de l’île d’Arz existen
 ## Montée des océans : La mer à voir
 ## Objectifs :
     De façon collaborative, élaborer un outil attractif* de sensibilisation à la montée des océans pour tous les publics. Le volet collaboratif agrège : La Fabrique du Loch et le réseau des fablabs, Clim’actions et ses experts, le milieu scolaire, le public (nos adhérents). Le volet pédagogique (apprendre par le faire) porte sur un large panel de compétences et de savoirs notamment dans les domaines de l’écologie, du numérique et de l’innovation.*Attractif car se manipule, interagit, montre les effets en réalité augmentée, en opensource et se décline localement.
-    
-## Description : 
+
+## Description :
 
 1 - **Les 4 étapes techniques :**
 
@@ -290,9 +293,9 @@ découpe laser – les données du port de Vannes et de l’île d’Arz existen
   Évaluer la partie cartographique, notamment la cohérence et la qualité des données.
   c/ Définir le cahier des charges pour la réalisation du prototype.
   Prise en compte du résultat de l’évaluation avec la définition des spécifications fonctionnelles aux niveaux système, matériel et logiciel, ainsi que des besoins des fablabs.
-   d/ Réaliser le prototype - Achat du matériel, CAO, fabrication, assemblage, développement du logiciel, intégration du matériel et du logiciel, validation système. 
+   d/ Réaliser le prototype - Achat du matériel, CAO, fabrication, assemblage, développement du logiciel, intégration du matériel et du logiciel, validation système.
 
-**2 - Le volet collaboratif avec un public diversifié :** 
+**2 - Le volet collaboratif avec un public diversifié :**
 il est effectif sur les étapes b et d (innovation). Voir moyens.
 **3 - Essaimer et communiquer** grâce à la réalisation de montage vidéo et tutoriels tout au long du projet (sur 6 mois).
 
@@ -306,14 +309,14 @@ Le département du Morbihan : La conception de la maquette et du prototype s'att
 
 ## Moyens matériels et humains :
 
-Le projet est coordonné par notre fabmanager (salarié). Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ». 
-Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet. 
+Le projet est coordonné par notre fabmanager (salarié). Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ».
+Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet.
 A ce jour, une dizaine de bénévoles de la FDL ont réalisé ensemble notre sandbox. Pour l’adapter aux besoins spécifiques du projet, le concours de 3 experts* très qualifiés est indispensable (bénévole mais valorisé à 40€/h).
 
 - L. Labeyrie, paléo-océanographe, ex-membre du GIEC et membre de Clim'actions ; J-N. Murail, ex-ingénieur Câbles et Réseaux sous-marins ; A. Ménard, développeur à l'Etalab missionné au SHOM.
 ## Evaluation :
 
-Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux). 
+Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux).
 
 
 ## Budget :
@@ -351,7 +354,7 @@ La réalisation concrète de cet objet tactile et numérique s’inscrit dans un
 collaborative, avec ses outils, ses règles et ses valeurs, notamment celles de la pluralité des acteurs associés qui garantit un élargissement culturel et de la mise en commun de connaissances et ressources diversifiées. Le projet collaboratif, connu des makers, est une formidable expérience humaine propice au partage de compétences, à l’expérimentation et à l’innovation, trois facteurs clés de l’ingéniosité.
 Malheureusement, le temps imparti ne permettra pas de développer pleinement un
 projet pédagogique au sein des écoles locales avec la participation des classes.
-Néanmoins, nos bonnes relations et nos contacts avec les établissements scolaires et les centres de formation locaux, ainsi qu’une demande récurrente des jeunes pour venir en stage à la FDL, nous garantissent un panel de ressources humaines. Exemple 
+Néanmoins, nos bonnes relations et nos contacts avec les établissements scolaires et les centres de formation locaux, ainsi qu’une demande récurrente des jeunes pour venir en stage à la FDL, nous garantissent un panel de ressources humaines. Exemple
 
 - des élèves du lycée Du Guesclin seront impliqués dans la réalisation des maquettes représentant des sites significatifs et dans les premières évaluations d'expérience utilisateurs.
 - Seront également associés des élèves du primaire et d’un collège.
@@ -360,4 +363,3 @@ Néanmoins, nos bonnes relations et nos contacts avec les établissements scolai
 Ce nouvel outil, attractif pour de nombreux publics, prendra tout son sens s'il s'inscrit
 dans une démarche de sensibilisation et d’éducation à l’environnement et au
 réchauffement climatique.
-
