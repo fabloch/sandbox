@@ -22,13 +22,14 @@ Cet **outil pédagogique**, à la fois simple et complexe, s’adresse à tous l
 Il est utilisable par plusieurs types d’intervenants (**enseignants, élus, associations**).
 
 Parce qu’il sera réalisé en **opensource**, le bac à sable pourra être modifié et adapté à d’autres lieux.
-Le bac à sable de la FDL et vous….
 
-Pour réaliser ce projet, nous avons besoin de vous (élus, enseignants, associations, institutions, financeurs, etc.) pour….
-. accéder gratuitement aux relevés topographiques (mairie)
-. sensibiliser une ou plusieurs classes (enseignants) qui s’intéressent au projet
+# Le bac à sable de la FDL et vous
 
-- Le Projet FDVA2 ["La mer à voir"](La_mer_a_voir_Production)
+Pour réaliser ce projet, nous avons besoin de vous (élus, enseignants, associations, **institutions**, **financeurs**, etc.) pour
+- accéder gratuitement aux relevés topographiques (**mairies**)
+- sensibiliser une ou plusieurs classes (**enseignants**) qui s’intéressent au projet
+
+- Le Projet FDVA2: ["La mer à voir"](La_mer_a_voir_Production)
 - [Suivi du projet Sandbox](la_page_de_suivi_de_Sandbox)
 - [Des liens utiles](Liens_Utiles)
 - [La construction du bac à sable](construction)
