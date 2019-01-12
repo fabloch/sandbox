@@ -2,6 +2,7 @@
 
 
 ## MNT Baie de Quiberon
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1537469626199_Golfe.jpg)
 
 http://diffusion.shom.fr/pro/amenagement/mnt-cotier-morbihan-tandem.html
 

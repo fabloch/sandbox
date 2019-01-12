@@ -9,6 +9,8 @@ La Sandbox est un **bac à sable 2.0** (illustration) qui permet de visualiser d
 Le bac à sable de la Fabrique du Loch s’inspire de la Sandbox originale, la prolonge et l’adapte à la réalité locale.
 
 ![Sandbox](assets/images/Sandbox.jpg)
+Augmented Reality Sandbox - How to Build the Sandbox
+[https://youtu.be/YLYO0YhY83w?t=271](https://youtu.be/YLYO0YhY83w?t=271)
 
 Inéluctable, la montée des océans est un tel **défi pour l’humanité** qu’il existe déjà un bon nombre d’outils disponibles sur Internet,
 simulant différents niveaux de la mer (en mètres avec un curseur).
