@@ -3,6 +3,8 @@
 
 # La mer à voir, pour sensibiliser sur la montée des océans
 
+Présentation du projet à la DDCS56, envoyée le 12 septembre 2018
+
 [Cerfa du 12 septembre 2018](cerfa)
 
 ## Intitulé
@@ -72,16 +74,12 @@ Les étapes du projet seront évaluées selon plusieurs critères : respect des 
 ## Budget :
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_3FD404D6CD4B05508DFB349AB21F9205F9A734525B1A58307C12A3AF5983E948_1539074711396_Capture+decran+2018-10-09+a+10.21.34.png)
 
-
-
-
 ## Projet numérique innovant : La mer à voir
-## Complément d’info envoyé à la DDCS56 par mail le 5 octobre
+**Complément d’info envoyé à la DDCS56 par mail le 5 octobre 2018**
 
-Le 12 septembre dernier, nous vous avons fait parvenir un dossier de candidature à
+>Le 12 septembre dernier, nous vous avons fait parvenir un dossier de candidature à
 l’appel à projet du FDVA2, sur le volet innovation numérique. Ce projet étant complexe, nous avons souhaité vous préciser quelques éléments.
 En vous remerciant pour l’attention que vous portez à notre projet, nous restons à votre disposition pour tout autre renseignement.
-
 
 ## 1. Un défi technologique et numérique
 
@@ -92,6 +90,7 @@ plusieurs années par une communauté de makers en font un outil manuel et numé
   Goustan à Auray, notre territoire, sera notre prototype pour réaliser les essais et les mises au point et pour définir le cahier des charges. 2 - Le Port de Vannes sera la 1ère
   maquette locale de « la mer à voir ». A ce stade, il y a un gros travail à faire sur les relevés topographiques. Pour la réalisation de la maquette, la FDL bénéficie d’une expérience remarquable grâce à notre collaboration avec les archéologues du Musée de Préhistoire de Carnac.
 - Pour la simulation de la montée des eaux en réalité augmentée, nous appliquerons les équations de Barré de St-Venant. Sans vouloir prétendre atteindre la complexité des mouvements de l’océan, le défi consistera à conjuguer plusieurs phénomènes (vagues, courants, fonte glacière…) et à traduire ainsi des scénarios potentiels de la montée des eaux.
+
 ## 2. Une innovation attendue
 
 Inéluctable, la montée des océans est un tel défi pour l’humanité qu’il existe déjà un bon nombre d’outils disponibles sur Internet, simulant différents niveaux de la mer (en mètres avec un curseur). Mais leur interactivité reste limitée et leur pertinence à l’échelle locale ne parait pas flagrante.
@@ -102,6 +101,7 @@ Plus localement, nous avons échangé avec l’association Clim’actions de Van
 
 La réalisation concrète de cet objet tactile et numérique s’inscrit dans une démarche
 collaborative, avec ses outils, ses règles et ses valeurs, notamment celles de la pluralité des acteurs associés qui garantit un élargissement culturel et de la mise en commun de connaissances et ressources diversifiées. Le projet collaboratif, connu des makers, est une formidable expérience humaine propice au partage de compétences, à l’expérimentation et à l’innovation, trois facteurs clés de l’ingéniosité.
+
 Malheureusement, le temps imparti ne permettra pas de développer pleinement un
 projet pédagogique au sein des écoles locales avec la participation des classes.
 Néanmoins, nos bonnes relations et nos contacts avec les établissements scolaires et les centres de formation locaux, ainsi qu’une demande récurrente des jeunes pour venir en stage à la FDL, nous garantissent un panel de ressources humaines. Exemple
