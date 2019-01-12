@@ -1,47 +1,70 @@
 ---
 ---
 
-# La mer à voir - Production
+# La mer à voir, pour sensibiliser sur la montée des océans
 
-# CERFA du 12 septembre 2018
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_3FD404D6CD4B05508DFB349AB21F9205F9A734525B1A58307C12A3AF5983E948_1539008620335_cerfa-12156-05.png)
+[Cerfa du 12 septembre 2018](cerfa)
 
-## Intitulé :
-## Montée des océans : La mer à voir
-## Objectifs :
-    De façon collaborative, élaborer un outil attractif* de sensibilisation à la montée des océans pour tous les publics. Le volet collaboratif agrège : La Fabrique du Loch et le réseau des fablabs, Clim’actions et ses experts, le milieu scolaire, le public (nos adhérents). Le volet pédagogique (apprendre par le faire) porte sur un large panel de compétences et de savoirs notamment dans les domaines de l’écologie, du numérique et de l’innovation.*Attractif car se manipule, interagit, montre les effets en réalité augmentée, en opensource et se décline localement.
+## Intitulé
+Montée des océans : La mer à voir
 
-## Description :
+## Objectifs
+De façon collaborative, élaborer un outil attractif* de sensibilisation à la montée des océans pour tous les publics. Le volet collaboratif agrège : La Fabrique du Loch et le réseau des fablabs, Clim’actions et ses experts, le milieu scolaire, le public (nos adhérents). Le volet pédagogique (apprendre par le faire) porte sur un large panel de compétences et de savoirs notamment dans les domaines de l’écologie, du numérique et de l’innovation.
+* Attractif car se manipule, interagit, montre les effets en réalité augmentée, en opensource et se décline localement.
 
-1 - **Les 4 étapes techniques :**
+## Description
 
-  a/ Réaliser la maquette d'une sandbox - La sandbox est un projet en opensource du réseau des fablabs. C’est un bac à sable où l’on manipule manuellement le sable pour une représentation interactive et en 3D, des écoulements de l’eau en fonction des reliefs. Le bac à sable est surmonté d’une caméra 3D et d'un projecteur vidéo, contrôlés par des logiciels. Cette réalisation ouvre l'étape suivante, plus innovante grâce à sa déclinaison sur des modèles réduits de lieux de proximité (du global au local).
-  b/ Évaluer les ajouts, modifications et innovations à y apporter : facilité de mise en œuvre, types d’interactivités.
-  Évaluer la partie cartographique, notamment la cohérence et la qualité des données.
-  c/ Définir le cahier des charges pour la réalisation du prototype.
-  Prise en compte du résultat de l’évaluation avec la définition des spécifications fonctionnelles aux niveaux système, matériel et logiciel, ainsi que des besoins des fablabs.
-   d/ Réaliser le prototype - Achat du matériel, CAO, fabrication, assemblage, développement du logiciel, intégration du matériel et du logiciel, validation système.
+### Les 4 étapes techniques
 
-**2 - Le volet collaboratif avec un public diversifié :**
-il est effectif sur les étapes b et d (innovation). Voir moyens.
-**3 - Essaimer et communiquer** grâce à la réalisation de montage vidéo et tutoriels tout au long du projet (sur 6 mois).
+#### Réaliser la maquette d'une sandbox
+La sandbox est un projet en opensource du réseau des fablabs. C’est un bac à sable où l’on manipule manuellement le sable pour une représentation interactive et en 3D, des écoulements de l’eau en fonction des reliefs. Le bac à sable est surmonté d’une caméra 3D et d'un projecteur vidéo, contrôlés par des logiciels. Cette réalisation ouvre l'étape suivante, plus innovante grâce à sa déclinaison sur des modèles réduits de lieux de proximité (du global au local).
+#### Évaluer les ajouts, modifications et innovations à y apporter
+Facilité de mise en œuvre, types d’interactivités.
+Évaluer la partie cartographique, notamment la cohérence et la qualité des données.
+#### Définir le cahier des charges pour la réalisation du prototype.
+Prise en compte du résultat de l’évaluation avec la définition des spécifications fonctionnelles aux niveaux système, matériel et logiciel, ainsi que des besoins des fablabs.
 
-## Bénéficiaires :
+#### Réaliser le prototype
+- Achat du matériel
+- CAO
+- fabrication
+- assemblage
+- développement du logiciel
+- intégration du matériel et du logiciel
+- validation système
 
-Pour la conception des différents éléments du prototype, les acteurs sont des scolaires (au moins1 classe), les bénévoles et adhérents des associations concernées (La Fabrique du Loch et Clim'actions). A terme, cet outil de sensibilisation vise un public diversifié. Il doit être au service d'une démarche pédagogique pour lui donner tout son sens éducatif. Il peut aussi servir à attirer l'attention des élus et des habitants des zones inondables concernées, sur les risques locaux.Pour toucher le grand public, les médias et les réseaux sociaux sont sollicités dès la phase de conception du projet.L'outil est suffisamment ludique et attractif pour être proposé au grand public, sur le mode participatif, lors de différents évènements, forums et expositions, via divers mouvements (associatif, éducatif, environnemental, makers).
+### - Le volet collaboratif avec un public diversifié
+Il est effectif sur les étapes b et d (innovation). Voir moyens.
 
-## Territoire :
+### Essaimer et communiquer
+Grâce à la réalisation de montage vidéo et tutoriels tout au long du projet (sur 6 mois).
+
+## Bénéficiaires
+Pour la conception des différents éléments du prototype, les acteurs sont des scolaires (au moins1 classe), les bénévoles et adhérents des associations concernées (La Fabrique du Loch et Clim'actions).
+
+A terme, cet outil de sensibilisation vise un public diversifié.
+
+Il doit être au service d'une démarche pédagogique pour lui donner tout son sens éducatif.
+
+Il peut aussi servir à attirer l'attention des élus et des habitants des zones inondables concernées, sur les risques locaux.
+
+Pour toucher le grand public, les médias et les réseaux sociaux sont sollicités dès la phase de conception du projet.L'outil est suffisamment ludique et attractif pour être proposé au grand public, sur le mode participatif, lors de différents évènements, forums et expositions, via divers mouvements (associatif, éducatif, environnemental, makers).
+
+## Territoire
 
 Le département du Morbihan : La conception de la maquette et du prototype s'attachera à reproduire un lieu significatif et local (ex: port de Vannes, St-Goustan, Ile d'Arz ou encore Redon). Le choix du lieu sera fonction de la qualité et de la cohérence des données topographiques existantes et disponibles.Les parties collaborative et pédagogique du projet privilégieront les acteurs du Morbihan (scolaires, stagiaires, bénévoles et experts) et s’appuieront sur le réseau des fablabs, structuré du local à l'international.Le Parc Naturel Régional du Golfe du Morbihan soutient ce projet.A l'image des océans qui n'ont pas de frontière, ce projet a vocation à essaimer et à inonder la terre entière (humour).
 
-## Moyens matériels et humains :
+## Moyens matériels et humains
 
-Le projet est coordonné par notre fabmanager (salarié). Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ».
+Le projet est coordonné par notre fabmanager (salarié).
+
+Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ».
 Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet.
 A ce jour, une dizaine de bénévoles de la FDL ont réalisé ensemble notre sandbox. Pour l’adapter aux besoins spécifiques du projet, le concours de 3 experts* très qualifiés est indispensable (bénévole mais valorisé à 40€/h).
 
 - L. Labeyrie, paléo-océanographe, ex-membre du GIEC et membre de Clim'actions ; J-N. Murail, ex-ingénieur Câbles et Réseaux sous-marins ; A. Ménard, développeur à l'Etalab missionné au SHOM.
-## Evaluation :
+
+## Evaluation
 
 Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux).
 
