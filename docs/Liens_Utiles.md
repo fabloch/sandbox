@@ -20,6 +20,15 @@ La **courte focale** fait bénéficier, avec ce modèle d'une image de **1 m de 
 
 598€ [chezmatériel.net](https://www.materiel.net/produit/201510070049.html)
 
+
+**Liens**  
+~~le~~ [~~tuto officiel~~](https://arsandbox.ucdavis.edu/instructions/installation/)
+Attention, celui-ci ne fonctionne plus pour une réinstallation complète
+La seule référence (avec des nouvelles librairies Kinect et VRUI [est ici](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/LinkSoftwareInstallation.html)
+la  [vidéo](https://www.youtube.com/watch?v=CE1B7tdGCw0)
+sur le NAS le diaporama dans  fabrique/PROJETS de la fabrique du loch/FDVA 2018 Montée des eaux/sansbox-
+La maquette
+
 #
 # Dimensions pour Construction
 
