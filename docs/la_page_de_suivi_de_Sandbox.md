@@ -19,6 +19,7 @@ Le projecteur de focale trop longue est installé sur une table et projette sur 
 
 ## Fabrication maquette qui remplacera le sable
 
+### Les données du Golfe du Morbihan
 - [x] Création d’un compte shom pour récupérer les données litho3D du golfe du morbihan
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1537430962079_mnt-morbihan.png)
 
@@ -35,8 +36,7 @@ Il faut demander à nos mairies respectives (ou écoles, universités…) de ré
 - [ ] vérifier si  les 6 carrés dessinés sur la carte suffisent.
 - [ ] Reprise du diaporama de jean noel pour faire un version de présentation simplifiée afin de contacter institutionels ou assos ou presse
 
-## Cartographie
-
+#### Litto3D
 Les relevés Litto3D du Shom https://diffusion.shom.fr existent au pas de 5m et 1m. Ces relevés MNT sont organisés en fichiers couvrant 1 km². C’est-à-dire 200 lignes de 200 colonnes pour le pas de 5m et 1000 lignes de 1000 colonnes pour le pas de 1m. La résolution verticale est le cm. Les données sont en ascii. Une présentation alternative en nuage de points permet de qualifier chaque point suivant le type de relevé qui a permis de le déterminer.
 L’accès à ces fichiers est gratuit.
 
@@ -48,7 +48,7 @@ sur http://diffusion.shom.fr/loisirs/catalogsearch/result/?q=morbihan on a ça :
 Intervention sur le soft pour pouvoir augmenter le niveau par pas de x cm (50, 100 ?)
 et mode de gestion de l’interactivité à cogiter (page web ?, sur mini écran, sur pc maitre, potentiomètre,  ? possibilités d’ajouter des paramètres influant sur la hauteur choisie (dépression, vent? et ou déterminant la hauteur prévue (réchauffement en degré)
 
-# Courbes de niveaux
+#### Courbes de niveaux
 
 - [ ] Transformation ou utilisisation des fichiers MNT ou des nuages de points pour générer les courbes de niveaux sous forme d’image utilisable par la découpe laser.
 - [ ] Le logiciel ignmap sait lire les données MNT (entre autres) http://ignmap.ign.fr/spip.php?rubrique3 je l’ai installé sur le PC25 sur lequel on a le logiciel sandbox- travaille en relation avec geoportail.
@@ -59,7 +59,7 @@ nb : il y a un outil (assez rustique, disent-ils) qui s’appelle “montées de
 - [ ] On peut regarder aussi du coté de [QGIS](https://www.qgis.org/fr/site/)
 ![contours avec méthode Vernant](https://d2mxuefqeaa7sj.cloudfront.net/s_EB4BDC1A5F42E96687F69322712ECB7CBCE7B663CDEFFA31A5E43D419DF58E4F_1541836425749_contour.png)
 
-## QGIS
+##### QGIS
 **Système d'Information Géographique Libre et Open Source**
 https://qgis.org/ubuntu/pool/main/q/qgis/
 idem : il faut s’emparer du logiciel pour voir ce qu’on peut en faire…
@@ -82,12 +82,12 @@ Output : fichier Shapefile (. SHP) convertible en SVG ensuite
 
 
 [ ]
-## Des essais sur la rivière d’Auray donnent :
+#### Des essais sur la rivière d’Auray donnent :
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_32CC047DCDFE631499662F9F9BEC0E3C68AB154930DC38BBC9C619CE5C281725_1540657156259_HAUSSE_NIVEAUX_10m.png)
 
 La rivière est très confinée dans un relief franc : l’effet visuel entre +4m et +10m ne semble pas très spectaculaire. Préférer une zone avec des reliefs peu marqués (marais ?)
 
-## Découpe Prototype maquette MDF
+### Découpe Prototype maquette MDF
 
 SVG de courbes de niveau pour la zone d’Auray (données SRTM + IGN). Il y a 12 tranches espacées de 5m pour représenter les reliefs de 0 à 55m.
 Dimensions prototype :
@@ -98,7 +98,7 @@ Dimensions prototype :
 ![Simulation de l’empilement des 12 tranches horizontales](https://d2mxuefqeaa7sj.cloudfront.net/s_32CC047DCDFE631499662F9F9BEC0E3C68AB154930DC38BBC9C619CE5C281725_1541853328688_file.png)
 
 
-## RGE ALTI 1m
+#### RGE ALTI 1m
 
 Pour Auray, si on souhaite une résolution du mètre, l’IGN propose les relevés RGE ALTI 1m qui sont [gratuits pour les services publics et payant pour les asso](http://www.professionnels.ign.fr/gratuite-des-donnees) à raison de 50€ de mise à disposition + 4€ par km²
 Pour le maquettage en médium existe-t-il un programme réalisant l’analyse des iso et leur conversion en fichier CAO.
@@ -144,7 +144,7 @@ Quelques remarques :
 
 Ces remarques permettront de spécifier les fonctions que devra réaliser le programme de conversion.
 
-## MNT Baie de Quiberon
+#### MNT Baie de Quiberon
 
 http://diffusion.shom.fr/pro/amenagement/mnt-cotier-morbihan-tandem.html
 
@@ -155,7 +155,7 @@ Le niveau des plus basses mers astronomiques est le **zéro hydrographique**.
 
 Ce MNT présente des points sur une maille de 20 mètres.
 
-**Echelle Carte**
+##### Echelle Carte
 Taille Sandbox : 988mm x 737mm
 Ratio: 1.430
 
@@ -169,7 +169,7 @@ Le MNT Baie de Quiberon devrait être suffisant pour définir des contours pour 
 
 Pour une carte au 1:6000, un point de ce MNT tous les 3 mm dans la sandbox.
 
-**Altitude**
+##### Altitude
 Sur le MNT Baie de Quiberon
 
 NODATA: 1387509
@@ -183,7 +183,7 @@ ZERO: 1489
 0m 154154  1m 140489 2m 124185 3m 122682 4m 115302 5m 176387 6m 140593 7m 110181
 8m 107326 9m 106435 10m 105670 11m 101992 12m 102564 13m 100164 14m 104140 15m 102593 )
 
-**Marée**
+##### Marée
 Au zéro hydro des fichiers il convient d’ajouter les hauteurs de marée.
 Les hauteurs de marée peuvent être très variables dans le golfe entre les différents points de référence.
 Ainsi Port-Navalo et Auray peuvent voir des Pleine Mer à plus de 5 mètres quand les plus grandes marées pour Vannes et Arradon sont de 3 mètres avec des horaires différents de 2 heures.
@@ -197,11 +197,11 @@ Ainsi Port-Navalo et Auray peuvent voir des Pleine Mer à plus de 5 mètres quan
 | BM  | 1.10 m | 0.88 m  | 2.03 m      | 1.95 m |
 | PM  | 2.18 m | 1.99 m  | 3.80 m      | 3.31 m |
 
-**Estran**
+##### Estran
 Retrouver la ligne de plus haute mer astronomique (PHMA).
 Les deux lignes PBMA et PHMA définissent l’Estran.
 
-**Isobathes et lignes de côte**
+##### Isobathes et lignes de côte
 Depuis QGIS
 Lignes de contour sur le MNT de mètre en mètre.
 Considérer une échelle d’altitude variable.

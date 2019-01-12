@@ -29,15 +29,4 @@
 - [x] installé les soft sur le pc25 avec test sur le mur
 - [x] ligne(s) de commande pour lancer le soft ?
 
-**Liens**  
-~~le~~ [~~tuto officiel~~](https://arsandbox.ucdavis.edu/instructions/installation/)
-Attention, celui-ci ne fonctionne plus pour une réinstallation complète
-La seule référence (avec des nouvelles librairies Kinect et VRUI [est ici](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/LinkSoftwareInstallation.html)
-la  [vidéo](https://www.youtube.com/watch?v=CE1B7tdGCw0)
-sur le NAS le diaporama dans  fabrique/PROJETS de la fabrique du loch/FDVA 2018 Montée des eaux/sansbox-
-La maquette
-
-
-
-
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1536963279744_ARSandboxLayout.png)
