@@ -108,6 +108,8 @@ Néanmoins, nos bonnes relations et nos contacts avec les établissements scolai
 
 - des élèves du lycée Du Guesclin seront impliqués dans la réalisation des maquettes représentant des sites significatifs et dans les premières évaluations d'expérience utilisateurs.
 - Seront également associés des élèves du primaire et d’un collège.
+
+
 ## 4. Un outil au service d’une démarche pédagogique
 
 Ce nouvel outil, attractif pour de nombreux publics, prendra tout son sens s'il s'inscrit
