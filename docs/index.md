@@ -28,11 +28,11 @@ Pour réaliser ce projet, nous avons besoin de vous (élus, enseignants, associa
 . accéder gratuitement aux relevés topographiques (mairie)
 . sensibiliser une ou plusieurs classes (enseignants) qui s’intéressent au projet
 
-- Le Projet FDVA2 ["La mer à voir"](La_mer_a_voir_Production.md)
-- [Suivi du projet Sandbox](la_page_de_suivi_de_Sandbox.md)
+- Le Projet FDVA2 ["La mer à voir"](La_mer_a_voir_Production)
+- [Suivi du projet Sandbox](la_page_de_suivi_de_Sandbox)
 - [Des liens utiles](Liens_Utiles)
 - [La construction du bac à sable](construction)
 - [La projection](projection)
-
 - [Les données](donnees)
+- [La maquette](maquette)
 - [La todo list](todo)

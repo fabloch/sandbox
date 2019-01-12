@@ -6,8 +6,6 @@ La hauteur X de la camera est de 40” soit 101,6 cm en prenant comme base le ni
 **Le bac à sable est construit**, avec une potence qui reçoit la caméra
 Le projecteur de focale trop longue est installé sur une table et projette sur le bac au moyen d’un miroir.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1537469626199_Golfe.jpg)
-
 # Dimensions pour Construction
 
 (relevées à partir de 0:50 dans la vidéo) les dimensions sont en pouces

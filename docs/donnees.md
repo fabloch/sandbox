@@ -1,10 +1,79 @@
+### Les données du Golfe du Morbihan
+- [x] Création d’un compte shom pour récupérer les données litho3D du golfe du morbihan
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1537430962079_mnt-morbihan.png)
+
+Auray et Vannes ne sont pas inclus dans les données gratuites.
+
+La limite de la rivière d’Auray au nord s’arrête au Boursul au sud des “vides-bouteilles”.
+
+Il faut demander à nos mairies respectives (ou écoles, universités…) de récupérer les dalles manquantes.
+- [ ] Auray : 0245_6750, 0250_6750, 0255_6750 et 0245_6755,  0250_6755, 0255_6755,
+- [ ] Vannes :
+
+![couverture Lidar du golfe du morbihan](https://d2mxuefqeaa7sj.cloudfront.net/s_D79BECC53225E2841F3159439FDBF3EAEF8D2B1629C67346862060EAB087717F_1539011329501_zone+morbihan+ign+2.png)
+
+- [ ] vérifier si  les 6 carrés dessinés sur la carte suffisent.
+- [ ] Reprise du diaporama de jean noel pour faire un version de présentation simplifiée afin de contacter institutionels ou assos ou presse
+
+#### Litto3D
+Les relevés Litto3D du Shom https://diffusion.shom.fr existent au pas de 5m et 1m. Ces relevés MNT sont organisés en fichiers couvrant 1 km². C’est-à-dire 200 lignes de 200 colonnes pour le pas de 5m et 1000 lignes de 1000 colonnes pour le pas de 1m. La résolution verticale est le cm. Les données sont en ascii. Une présentation alternative en nuage de points permet de qualifier chaque point suivant le type de relevé qui a permis de le déterminer.
+L’accès à ces fichiers est gratuit.
+
+Chaque carré de 1km² est décrit par 3 fichiers. Chaque km² est désigné par ses coordonnées en km qui pourraient être reprises pour définir les zones qui nous intéressent.
+sur http://diffusion.shom.fr/loisirs/catalogsearch/result/?q=morbihan on a ça :
+
+----------
+
+Intervention sur le soft pour pouvoir augmenter le niveau par pas de x cm (50, 100 ?)
+et mode de gestion de l’interactivité à cogiter (page web ?, sur mini écran, sur pc maitre, potentiomètre,  ? possibilités d’ajouter des paramètres influant sur la hauteur choisie (dépression, vent? et ou déterminant la hauteur prévue (réchauffement en degré)
+
+#### Courbes de niveaux
+
+- [ ] Transformation ou utilisisation des fichiers MNT ou des nuages de points pour générer les courbes de niveaux sous forme d’image utilisable par la découpe laser.
+- [ ] Le logiciel ignmap sait lire les données MNT (entre autres) http://ignmap.ign.fr/spip.php?rubrique3 je l’ai installé sur le PC25 sur lequel on a le logiciel sandbox- travaille en relation avec geoportail.
+
+Bon, il faut s’emparer du logiciel pour voir ce qu’on peut en faire…
+nb : il y a un outil (assez rustique, disent-ils) qui s’appelle “montées des eaux” et qui ne semble pas très exact pour les rivières.
+
+- [ ] On peut regarder aussi du coté de [QGIS](https://www.qgis.org/fr/site/)
+![contours avec méthode Vernant](https://d2mxuefqeaa7sj.cloudfront.net/s_EB4BDC1A5F42E96687F69322712ECB7CBCE7B663CDEFFA31A5E43D419DF58E4F_1541836425749_contour.png)
+
+##### QGIS
+**Système d'Information Géographique Libre et Open Source**
+https://qgis.org/ubuntu/pool/main/q/qgis/
+idem : il faut s’emparer du logiciel pour voir ce qu’on peut en faire…
+voir ICI : http://www.pages-perso-philippe-vernant.univ-montp2.fr/Philippe_Vernant/QGIS-MNT.html
+
+Bonne nouvelle :
+Qgis permet d’extraire les contours d’altitudes choisies → afin de sortir des images de découpe par couple (par exemple, couche 10 m et couche 11m afin de découper la couche 10 m et d’y graver la couche 11m qu’on pose dessus après (la bonne idée de Ludo)
+la méthode →  [voir ici](https://mesange.educagri.fr/htdocs/sigea/supports/QGIS/distance/perfectionnement/M09_Traitement_donnees_raster_gen_web/co/40_N2_Outils_Raster_MNT.html)
+
+Output : fichier Shapefile (. SHP) convertible en SVG ensuite
+
+- [ ] aussi du coté de **SandboxAR**
+- [ ] Entrer les relevés MNT dans la sandbox.
+
+À priori à minima port de Vannes et d’Auray ? du moins centré sur ces zones - l’étendue  reste à calculer en fonction de l’épaisseur de la maquette désirée et du type de rendu désiré (avec plus ou moins de marches entre chaque épaisseur de medium. Un des problèmes est que les zones avec rivière ne fonctionnenent pas comme les zones cotières : voir la carte d’auray avec une montée des eaux de 5 mètres ( http://flood.firetree.net/?ll=47.6609,-2.9790&zoom=16&m=1&type=hybrid ou encore sur climate central avec une montée de 3 m : https://ss2.climatecentral.org/#15/47.6643/-2.9778?show=satellite&projections=0-K14_RCP85-SLR&level=3&unit=meters&pois=hide
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1537278864933_port-auray5m-flood.firetree.net.png)
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1537279174438_part-auray.png)
+
+
+[ ]
+#### Des essais sur la rivière d’Auray donnent :
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_32CC047DCDFE631499662F9F9BEC0E3C68AB154930DC38BBC9C619CE5C281725_1540657156259_HAUSSE_NIVEAUX_10m.png)
+
+La rivière est très confinée dans un relief franc : l’effet visuel entre +4m et +10m ne semble pas très spectaculaire. Préférer une zone avec des reliefs peu marqués (marais ?)
+
 
 
 
 ## MNT Baie de Quiberon
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1537469626199_Golfe.jpg)
 
-http://diffusion.shom.fr/pro/amenagement/mnt-cotier-morbihan-tandem.html
+![Golfe Du Morbihan](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1537469626199_Golfe.jpg)
+
+Le [MNT du Morbihan](http://diffusion.shom.fr/pro/amenagement/mnt-cotier-morbihan-tandem.html) disponible sur le site [diffusion.shom.fr](http://diffusion.shom.fr).
 
 Ce MNT est disponible avec deux références verticales:
 - niveau moyen (NM);
