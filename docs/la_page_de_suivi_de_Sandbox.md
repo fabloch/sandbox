@@ -103,7 +103,6 @@ Dimensions prototype :
 Pour Auray, si on souhaite une résolution du mètre, l’IGN propose les relevés RGE ALTI 1m qui sont [gratuits pour les services publics et payant pour les asso](http://www.professionnels.ign.fr/gratuite-des-donnees) à raison de 50€ de mise à disposition + 4€ par km²
 Pour le maquettage en médium existe-t-il un programme réalisant l’analyse des iso et leur conversion en fichier CAO.
 
-
 Si l’on souhaite utiliser la projection de ces zones pour un nivellement du sable à la main tel que montré dans https://youtu.be/nPba_9WzdjI?t=11m37s  un programme est nécessaire pour entrer les relevés MNT dans la sandbox. Le programme conv-asc convertit les données MNT (par ex de l’IGN ou Litto) en données chargeables dans la sandbox. Placer le répertoire de conv-asc dans :
 src/SARndbox/etc/SARndbox/conv-asc
 Le chargement des données MNT se fait par le menu système vrui qui apparaît lorsqu’une touche du clavier est pressée. Cette touche devient alors un raccourci pour activer/désactiver une fonction. La fonction à sélectionner dans le menu système est “show DEM” .

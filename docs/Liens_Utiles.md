@@ -5,18 +5,22 @@
 
 # le projecteur utilisé
 
-de type Throw Projector - il existe aussi des ultra Throw projectors
-le même type de projecteur existe peut-être en pico-projector mais la focale est un élément pertinant uniquement pour des projecteurs similaires (taille physique de l’image projetée)
-[voir recommandations](https://arsandbox.ucdavis.edu/instructions/hardware-2/) sur tuto officiel et les caractéristique du Benq :
+De type Throw Projector - il existe aussi des ultra Throw projectors
 
-Le BenQ WXGA DLP Short Throw Projector (MW631ST) qui y est utilisé a ces caractéristiques :
-https://www.projectorcentral.com/BenQ-MX631ST.htm
-https://www.projectorcentral.com/pdf/projector_spec_8970.pdf
-https://www.projectorcentral.com/BenQ-MX631ST-projection-calculator-pro.htm
+Le même type de projecteur existe peut-être en pico-projector mais la focale est un élément pertinant uniquement pour des projecteurs similaires (taille physique de l’image projetée)
 
-Ce qu’il faut retenir pour un autre projecteur (mobile, pico…) est la possibilité de projeter une image (nette…) d’un mètre de base à une distance de 1 mètre
+[voir recommandations](https://arsandbox.ucdavis.edu/instructions/hardware-2/) sur tuto officiel
 
-La **courte focale** fait bénéficier, avec ce modèle d'une image de **1 m de base**  avec seulement **0,98 m de distance** vis à vis du mur.
+Le BenQ WXGA DLP Short Throw Projector (MW631ST), utilisé par le tuto officiel, a ces caractéristiques :
+- [Description](https://www.projectorcentral.com/BenQ-MX631ST.htm)
+- [Spécifications](https://www.projectorcentral.com/pdf/projector_spec_8970.pdf)
+- [Calculateur de projection](https://www.projectorcentral.com/BenQ-MX631ST-projection-calculator-pro.htm)
+
+Ce qu’il faut retenir pour un autre projecteur (mobile, pico…) est la possibilité de
+projeter une image (nette…) d’un mètre de base à une distance de 1 mètre.
+
+La **courte focale** fait bénéficier, avec ce modèle d'une image de **1 m de base**  
+avec seulement **0,98 m de distance** vis à vis du mur.
 
 598€ [chezmatériel.net](https://www.materiel.net/produit/201510070049.html)
 
@@ -29,7 +33,6 @@ la  [vidéo](https://www.youtube.com/watch?v=CE1B7tdGCw0)
 sur le NAS le diaporama dans  fabrique/PROJETS de la fabrique du loch/FDVA 2018 Montée des eaux/sansbox-
 La maquette
 
-#
 # Dimensions pour Construction
 
 (relevées à partir de 0:50 dans la vidéo) les dimensions sont en pouces
