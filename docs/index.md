@@ -29,4 +29,3 @@ Pour réaliser ce projet, nous avons besoin de vous (élus, enseignants, associa
 - [Suivi du projet Sandbox](la_page_de_suivi_de_Sandbox.md)
 - [Des liens utiles](Liens_Utiles)
 - [La todo list](todo)
-- [Journée du samedi 10 novembre](Journee_samedi_10_novembre.md)
