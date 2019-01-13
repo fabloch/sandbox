@@ -6,7 +6,7 @@
 A partir des [données](donnees), il est prévu de construire une maquette du Golfe du morbihan
 pouvant être insérée dans le bac de la Sandbox.
 
-### Découpe Prototype maquette MDF
+## Découpe Prototype maquette MDF
 
 SVG de courbes de niveau pour la zone d’Auray (données SRTM + IGN). Il y a 12 tranches espacées de 5m pour représenter les reliefs de 0 à 55m.
 Dimensions prototype :

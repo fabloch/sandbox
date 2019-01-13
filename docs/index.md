@@ -32,10 +32,10 @@ Pour réaliser ce projet, nous avons besoin de vous (élus, enseignants, associa
 # Le projet Sandbox:
 
 - Le Projet FDVA2: ["La mer à voir"](La_mer_a_voir_Production)
-- [Suivi du projet Sandbox](la_page_de_suivi_de_Sandbox)
-- [Des liens utiles](Liens_Utiles)
 - [La construction du bac à sable](construction)
 - [La projection](projection)
 - [Les données](donnees)
 - [La maquette](maquette)
+- [Des liens utiles](Liens_Utiles)
+
 - [La todo list](todo)

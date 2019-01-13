@@ -66,6 +66,51 @@ Output : fichier Shapefile (. SHP) convertible en SVG ensuite
 
 La rivière est très confinée dans un relief franc : l’effet visuel entre +4m et +10m ne semble pas très spectaculaire. Préférer une zone avec des reliefs peu marqués (marais ?)
 
+#### RGE ALTI 1m
+
+Pour Auray, si on souhaite une résolution du mètre, l’IGN propose les relevés RGE ALTI 1m qui sont [gratuits pour les services publics et payant pour les asso](http://www.professionnels.ign.fr/gratuite-des-donnees) à raison de 50€ de mise à disposition + 4€ par km²
+Pour le maquettage en médium existe-t-il un programme réalisant l’analyse des iso et leur conversion en fichier CAO.
+
+Si l’on souhaite utiliser la projection de ces zones pour un nivellement du sable à la main tel que montré dans https://youtu.be/nPba_9WzdjI?t=11m37s  un programme est nécessaire pour entrer les relevés MNT dans la sandbox. Le programme conv-asc convertit les données MNT (par ex de l’IGN ou Litto) en données chargeables dans la sandbox. Placer le répertoire de conv-asc dans :
+src/SARndbox/etc/SARndbox/conv-asc
+Le chargement des données MNT se fait par le menu système vrui qui apparaît lorsqu’une touche du clavier est pressée. Cette touche devient alors un raccourci pour activer/désactiver une fonction. La fonction à sélectionner dans le menu système est “show DEM” .
+L’interaction n’est pas intuitive :  
+
+1. placer la souris sur la fenêtre de la sandbox
+2. appuyer sur une touche du clavier et la maintenir appuyée
+3. placer la souris sur show DEM
+4. relacher la touche du clavier
+5. un menu de choix de fichier apparaît
+6. sélectionner le fichier normalement avec la souris.
+
+Le programme de conversion dans le répertoire conv-asc est le fichier main.cpp. A la ligne 59, on peut modifier le coefficient multiplicateur appliqué aux données. Ne pas oublier de recompiler après modification.
+Exemple de tracés obtenus avec le fichier :
+ L3D-MAR_FRA_0252_6740_MNT5_20150519_L93_RGF93_IGN69
+Pour des altitudes différentes :
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280948_geoportail+_0252_6740.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280404_L3D_0252_6740_1.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1541962029366_L3D_0252_6740_1b.png)
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280505_L3D_0252_6740_3.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280521_L3D_0252_6740_4.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280538_L3D_0252_6740_5.png)
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280549_L3D_0252_6740_6.png)
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_5B8C07C20B183E063D3D8662B6D60E82EBB08EB27AA192522639B4089E5C5D95_1540908280590_L3D_0252_6740_7.png)
+
+
+Note : les tracés noirs sont à “oublier” car ils proviennent du bruit de la Kinect sur un fond plat. Les différentes altitudes ont été obtenues en faisant varier le paramètre : demVerticalShift et la zone blanche (zone de transition entre le bleu et le rouge) a été réduite en portant le paramètre demVerticalScale à 100.
+Plus d’info dans ce topic : https://arsandbox.ucdavis.edu/forums/topic/dem-help/
+
+Quelques remarques :
+
+1. les fichiers MNT de l’IGN ou L3D du SHOM décrivent des zones carrées. La sandbox adapte les fichiers d’entrée suivant sa résolution qui est rectangulaire. Il convient donc de sélectionner dans le fichier MNT les points à représenter avec le même rapport Lxl.
+2. La zone à afficher peut provenir de plusieurs fichiers et il faut juxtaposer les données de ces différents fichiers.
+3. Les points non renseignés (nodata_value) des fichiers MNT doivent être modifiés pour les homogénéiser avec les points adjacents.
+
+Ces remarques permettront de spécifier les fonctions que devra réaliser le programme de conversion.
+
 
 
 
