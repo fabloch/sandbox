@@ -4,7 +4,8 @@
 # Liens Utiles
 
 - [UCLA Augmented Reality Sandbox](http://thinkingintermsof.scienceblog.com/2015/08/10/uclas-augmented-reality-sandbox)
-- Augmented Reality Sandbox: [How to Build the Sandbox](https://youtu.be/YLYO0YhY83w?t=271)
+- [How to Build the Sandbox](https://youtu.be/YLYO0YhY83w?t=271)
+- [Buid your own AR Sandbox, UC Davis](https://arsandbox.ucdavis.edu/instructions/)
 
 ## Le Bac Seul
 - ![Le bac seul](https://d2mxuefqeaa7sj.cloudfront.net/s_0E531140FF4A99C27DB59F1FDA9D3624B422B94FC0768DA7F55BDAC289872C85_1542560958376_vue+assemblage+sandbox.png)
