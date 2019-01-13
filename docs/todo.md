@@ -14,7 +14,7 @@
 - [x] Tamiser le sable - le tamis de Gilbert est revenu à la fabrique
 
 - [x] Se faire prêter ou acheter un Video projecteur courte focale [(voir ici)](https://paper.dropbox.com/doc/liens-divers-et-varies--ASHvSE9X5iXmXezw1mh1J5WHAg-hKVlU1NFQK03hLUY9jw1x)
-- [x] Faire un plan de construction avec les cotes indiquées [sur la vidéo](https://paper.dropbox.com/doc/liens-divers-et-varies--ASHvSE9X5iXmXezw1mh1J5WHAg-hKVlU1NFQK03hLUY9jw1x)
+- [x] Faire un plan de construction avec les côtes indiquées [sur la vidéo](https://paper.dropbox.com/doc/liens-divers-et-varies--ASHvSE9X5iXmXezw1mh1J5WHAg-hKVlU1NFQK03hLUY9jw1x)
 
 - [ ] sélection d’une zone géographique pertinente pour la représentation de la montée des eaux.
 - [ ] visualiser sur carte locale les carrés à demander auprès mairie ou autres
