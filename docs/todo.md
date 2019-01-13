@@ -29,5 +29,3 @@
 
 - [x] installé les soft sur le pc25 avec test sur le mur
 - [x] ligne(s) de commande pour lancer le soft ?
-
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_DA449CE77163142EBDC65072BB3CF6B42770A9D32263ADEAA96AE5F3316FD513_1536963279744_ARSandboxLayout.png)
