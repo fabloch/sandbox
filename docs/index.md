@@ -39,6 +39,9 @@ Pour continuer ce projet, nous avons besoin de vous (élus, enseignants, associa
 - [La projection](projection)
 - [Les données](donnees)
 - [La maquette](maquette)
+- [Documentation technique](documentation)
+- [Mode d'emploi](Affiche_mode_d’emploi)
+
 - [Des liens utiles](Liens_Utiles)
 
 - [La todo list](todo)
