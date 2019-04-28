@@ -56,16 +56,6 @@ Pour toucher le grand public, les médias et les réseaux sociaux sont sollicit�
 
 Le département du Morbihan : La conception de la maquette et du prototype s'attachera à reproduire un lieu significatif et local (ex: port de Vannes, St-Goustan, Ile d'Arz ou encore Redon). Le choix du lieu sera fonction de la qualité et de la cohérence des données topographiques existantes et disponibles.Les parties collaborative et pédagogique du projet privilégieront les acteurs du Morbihan (scolaires, stagiaires, bénévoles et experts) et s’appuieront sur le réseau des fablabs, structuré du local à l'international.Le Parc Naturel Régional du Golfe du Morbihan soutient ce projet.A l'image des océans qui n'ont pas de frontière, ce projet a vocation à essaimer et à inonder la terre entière (humour).
 
-## Moyens matériels et humains
-
-Le projet est coordonné par notre fabmanager (salarié).
-
-Clim’actions prend en charge le volet pédagogique « climat » (1 salariée). Un Service civique de la FDL accompagné par un membre du C.A. prend en charge le volet pédagogique « numérique ».
-Des scolaires (professeurs et élèves), des adhérents des 2 associations impliquées sont associés au projet.
-A ce jour, une dizaine de bénévoles de la FDL ont réalisé ensemble notre sandbox. Pour l’adapter aux besoins spécifiques du projet, le concours de 3 experts* très qualifiés est indispensable (bénévole mais valorisé à 40€/h).
-
-- L. Labeyrie, paléo-océanographe, ex-membre du GIEC et membre de Clim'actions ; J-N. Murail, ex-ingénieur Câbles et Réseaux sous-marins ; A. Ménard, développeur à l'Etalab missionné au SHOM.
-
 ## Evaluation
 
 Les étapes du projet seront évaluées selon plusieurs critères : respect des délais, qualité du réalisé et nombre de personnes engagées et sensibilisées.a/ La maquette de la sandbox a été réalisée par une douzaine de bénévoles.  b/ Le cahier des charges du prototype a été partagé par tous les acteurs concernés c/ Le prototype fonctionne avec la participation d'1 ou 2 classes, de 3 stagiaires en formation, des référents, des salariés...) d/ Il est documenté et peut ainsi être dupliqué et adapté à d'autres environnements locauxParce que ce projet innovant aura fait l'objet, dès sa conception, d'une promotion et d'une communication, il atteindra tout de suite un public vaste et varié (mesure de l'impact Presse et Réseaux sociaux).
